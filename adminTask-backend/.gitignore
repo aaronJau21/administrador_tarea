@@ -5,7 +5,7 @@
 /public/storage
 /storage/*.key
 /vendor
-mariadb
+maraidb/
 .env
 .env.backup
 .env.production
